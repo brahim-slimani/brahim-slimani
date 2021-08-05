@@ -10,6 +10,6 @@ Hi, I'm Brahim SLIMANI a software engineer from Algeria, I've mostly worked prof
 - 🌱 I’m currently learning continuous integration & continuous delivery in DevOps paradigm based on CI/CD tools such as Jenkins, CircleCI.. 
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about software engineering and web development topics, I'll be pleased to help you. 
-- 📫 How to reach me: slimani.ibr@gmail.com || bslimani@esi-sba.dz 
+- 📫 How to reach me: 📧[slimani.ibr@gmail.com](slimani.ibr@gmail.com) || 📧[bslimani@esi-sba.dz](bslimani@esi-sba.dz) || [LinkedIn](https://www.linkedin.com/in/ibrahim-slimani-184161b2/).
 - 😄 Pronouns: Ibrahim, Ibra
 - ⚡ Fun fact: I don't care about.
