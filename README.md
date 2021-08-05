@@ -1,16 +1,12 @@
-## Brahim SLIMANI  ✨✨
+## Brahim SLIMANI  ✨✨👋
 
-<!--👋
-**Slimani-Ibrahim/Slimani-Ibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
-Hi, I'm Brahim SLIMANI a software engineer from Algeria, I've mostly worked professionally in the web and mobile developement with experience on various technologies, passionate about various stacks (frontend, backend, DevOps, business intelligence). Mastering programming techniques and having excellent knowledge of modern development technologies.
+Hi, I'm Brahim SLIMANI a software engineer from Algeria, I've mostly worked professionally in the web and mobile developement with experience on various technologies, passionate about diverse stacks (frontend, backend, DevOps, business intelligence..). Mastering programming techniques and having excellent knowledge of modern development technologies.
 
 - 🔭 I’m currently digital developement enginner at Ooredoo Algeria, working on web and mobile developement.
 - 🌱 I’m currently learning continuous integration & continuous delivery in DevOps paradigm based on CI/CD tools such as Jenkins, CircleCI.. 
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about software engineering and web development topics, I'll be pleased to help you. 
-- 📫 How to reach me: 📧Mailto: [slimani.ibr@gmail.com](slimani.ibr@gmail.com) or [bslimani@esi-sba.dz](bslimani@esi-sba.dz) || [LinkedIn](https://www.linkedin.com/in/ibrahim-slimani-184161b2/).
+- 📫 How to reach me: 📧Mailto: [slimani.ibr@gmail.com](slimani.ibr@gmail.com) or [b.slimani@esi-sba.dz](b.slimani@esi-sba.dz) || [LinkedIn](https://www.linkedin.com/in/ibrahim-slimani-184161b2/).
 - 😄 Pronouns: Ibrahim, Ibra
 - ⚡ Fun fact: I don't care about.
 
@@ -35,3 +31,27 @@ Hi, I'm Brahim SLIMANI a software engineer from Algeria, I've mostly worked prof
 
 <codersrank-skills-chart username="slimani-ibrahim" labels="true" legend="true" tooltip="true" show-other-skills="true" branding="false"></codersrank-skills-chart>
 
+<br/>
+<div> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slimani-ibrahim&layout=compact&theme=dracula">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=slimani-ibrahim&show_icons=true&theme=dracula&count_private=true" width="420"> -->
+</div>
+
+<!--START_SECTION:waka-->
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+<!--END_SECTION:waka-->
