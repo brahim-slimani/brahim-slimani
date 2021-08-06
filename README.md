@@ -16,7 +16,7 @@ Hi, I'm Brahim SLIMANI a software engineer from Algeria, I've mostly worked prof
 
 ## WORK EXPERIENCE
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=slimani-ibrahim&branding=false&style=color:white"></img>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=slimani-ibrahim&branding=false&style=color:grey"></img>
 <br/>
 
 ## SCORES & APPRECIATION
