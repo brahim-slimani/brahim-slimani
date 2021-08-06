@@ -9,11 +9,20 @@ Hi, I'm Brahim SLIMANI a software engineer from Algeria, I've mostly worked prof
 - 📫 How to reach me: 📧Mailto: [slimani.ibr@gmail.com](slimani.ibr@gmail.com) or [b.slimani@esi-sba.dz](b.slimani@esi-sba.dz) || [LinkedIn](https://www.linkedin.com/in/ibrahim-slimani-184161b2/).
 - 😄 Pronouns: Ibrahim, Ibra
 - ⚡ Fun fact: I don't care about.
+<!-- [![Linkedin: slimani](https://img.shields.io/badge/-slimani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahim-slimani-184161b2/)](https://www.linkedin.com/in/ibrahim-slimani-184161b2/) -->
 
-<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
-<script src="https://unpkg.com/@codersrank/portfolio@x.x.x/codersrank-portfolio.min.js"></script>
-<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
-<script src="https://unpkg.com/@codersrank/work-experience@x.x.x/codersrank-work-experience.min.js"></script>
+<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js" type="text/javascript">
+
+</script>
+<script src="https://unpkg.com/@codersrank/portfolio@x.x.x/codersrank-portfolio.min.js" type="text/javascript">
+
+</script>
+<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js" type="text/javascript">
+
+</script>
+<script src="https://unpkg.com/@codersrank/work-experience@x.x.x/codersrank-work-experience.min.js" type="text/javascript">
+
+</script>
 
 <br/>
 
@@ -38,4 +47,5 @@ Hi, I'm Brahim SLIMANI a software engineer from Algeria, I've mostly worked prof
 </div>
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
