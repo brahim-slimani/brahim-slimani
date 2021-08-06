@@ -11,34 +11,22 @@ Hi, I'm Brahim SLIMANI a software engineer from Algeria, I've mostly worked prof
 - ⚡ Fun fact: I don't care about.
 <!-- [![Linkedin: slimani](https://img.shields.io/badge/-slimani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahim-slimani-184161b2/)](https://www.linkedin.com/in/ibrahim-slimani-184161b2/) -->
 
-<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js" type="text/javascript">
-
-</script>
-<script src="https://unpkg.com/@codersrank/portfolio@x.x.x/codersrank-portfolio.min.js" type="text/javascript">
-
-</script>
-<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js" type="text/javascript">
-
-</script>
-<script src="https://unpkg.com/@codersrank/work-experience@x.x.x/codersrank-work-experience.min.js" type="text/javascript">
-
-</script>
 
 <br/>
 
 ## WORK EXPERIENCE
 
-<codersrank-work-experience username="slimani-ibrahim" branding="false" ></codersrank-work-experience>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=slimani-ibrahim&branding=false&style=color:white"></img>
 <br/>
 
 ## SCORES & APPRECIATION
 
-<codersrank-summary username="slimani-ibrahim" branding="false"></codersrank-summary>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=slimani-ibrahim&branding=false"></img>
 <br/>
 
 ## TECHNICAL SKILLS 
 
-<codersrank-skills-chart username="slimani-ibrahim" labels="true" legend="true" tooltip="true" show-other-skills="true" branding="false"></codersrank-skills-chart>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=slimani-ibrahim&branding=false&show-other-skills=true&bg=1e1e1e"></img>
 
 <br/>
 <div> 
