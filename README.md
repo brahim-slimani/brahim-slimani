@@ -1,6 +1,6 @@
 ## Ibrahim SLIMANI  ✨✨👋
 
-Hi, I'm Ibrahim SLIMANI a software engineer from Algeria, I've mostly worked professionally in the web and mobile developement with experience on various technologies, passionate about diverse stacks (frontend, backend, DevOps, business intelligence..). Mastering programming techniques and having excellent knowledge of modern development technologies.
+Hi, I'm Ibrahim SLIMANI a software engineer from Algeria, I've mostly worked professionally in the web and mobile developement with experience on several technologies, passionate about various stacks (frontend, backend, DevOps, business intelligence..). Mastering programming techniques and having excellent knowledge of modern development technologies.
 
 - 🔭 I’m currently digital developement enginner at Ooredoo Algeria, working on web and mobile developement.
 - 🌱 I’m currently learning continuous integration & continuous delivery in DevOps paradigm based on CI/CD tools such as Jenkins, CircleCI.. 
@@ -10,6 +10,7 @@ Hi, I'm Ibrahim SLIMANI a software engineer from Algeria, I've mostly worked pro
 - 😄 Pronouns: Ibrahim, Ibra
 - ⚡ Fun fact: I don't care..
 
+Conatct me 👇
 
 <!-- CONTACT LINKS -->
 [![Linkedin: ibrahim-slimani](https://img.shields.io/badge/-ibrahim.slimani-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahim-slimani-184161b2/)](https://www.linkedin.com/in/ibrahim-slimani-184161b2/)
