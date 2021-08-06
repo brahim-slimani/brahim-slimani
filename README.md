@@ -8,13 +8,13 @@ Hi, I'm Ibrahim SLIMANI a software engineer from Algeria, I've mostly worked pro
 - 💬 Ask me about software engineering and web development topics, I'll be pleased to help you. 
 - 📫 How to reach me: 📧Mailto: [slimani.ibr@gmail.com](slimani.ibr@gmail.com) or [b.slimani@esi-sba.dz](b.slimani@esi-sba.dz)
 - 😄 Pronouns: Ibrahim, Ibra
-- ⚡ Fun fact: I don't care about.
-<!-- [![Linkedin: slimani](https://img.shields.io/badge/-slimani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahim-slimani-184161b2/)](https://www.linkedin.com/in/ibrahim-slimani-184161b2/) -->
-<!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://slimani-ibrahim.github.io/profile/)](https://slimani-ibrahim.github.io/profile/) -->
+- ⚡ Fun fact: I don't care..
 
+
+<!-- CONTACT LINKS -->
 [![Linkedin: ibrahim-slimani](https://img.shields.io/badge/-ibrahim.slimani-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahim-slimani-184161b2/)](https://www.linkedin.com/in/ibrahim-slimani-184161b2/)
 [![Website](https://img.shields.io/badge/-portfolio-red?style=flat&logo=appveyor&logoColor=white&link=https://slimani-ibrahim.github.io/profile/)](https://slimani-ibrahim.github.io/profile/)
-[![Github: ibrahim-slimani](https://img.shields.io/badge/-ibrahim.slimani-success?style=flat&logo=Github&logoColor=white&link=https://www.linkedin.com/in/ibrahim-slimani-184161b2/)](https://www.linkedin.com/in/ibrahim-slimani-184161b2/)
+[![Github: ibrahim-slimani](https://img.shields.io/badge/-ibrahim.slimani-success?style=flat&logo=Github&logoColor=white&link=https://github.com/Slimani-Ibrahim)](https://github.com/Slimani-Ibrahim)
 ![](https://visitor-badge.glitch.me/badge?page_id=slimani-ibrahim)
 
 <br/>
