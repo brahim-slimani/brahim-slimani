@@ -6,11 +6,9 @@ Hi, I'm Ibrahim SLIMANI a software engineer from Algeria, I've mostly worked pro
 - 🌱 I’m currently learning continuous integration & continuous delivery in DevOps paradigm based on CI/CD tools such as Jenkins, CircleCI.. 
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about software engineering and web development topics, I'll be pleased to help you. 
-- 📫 How to reach me: 📧Mailto: [slimani.ibr@gmail.com](slimani.ibr@gmail.com) or [b.slimani@esi-sba.dz](b.slimani@esi-sba.dz)
+- 📫 How to reach me: 📧Mailto: [slimani.ibr@gmail.com](slimani.ibr@gmail.com) | [b.slimani@esi-sba.dz](b.slimani@esi-sba.dz) or through the social links below 👇
 - 😄 Pronouns: Ibrahim, Ibra
 - ⚡ Fun fact: I don't care..
-
-Conatct me 👇
 
 <!-- CONTACT LINKS -->
 [![Linkedin: ibrahim-slimani](https://img.shields.io/badge/-ibrahim.slimani-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahim-slimani-184161b2/)](https://www.linkedin.com/in/ibrahim-slimani-184161b2/)
