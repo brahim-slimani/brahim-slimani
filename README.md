@@ -11,7 +11,7 @@ Hi, I'm Ibrahim SLIMANI a software engineer from Algeria, I've mostly worked pro
 - ⚡ Fun fact: I don't care..
 
 <!-- CONTACT LINKS -->
-[![Linkedin: ibrahim-slimani](https://img.shields.io/badge/-ibrahim.slimani-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brahim-slimani/)](https://www.linkedin.com/in/ibrahim-slimani-184161b2/)
+[![Linkedin: brahim-slimani](https://img.shields.io/badge/-ibrahim.slimani-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brahim-slimani/)](https://www.linkedin.com/in/brahim-slimani/)
 [![Website](https://img.shields.io/badge/-portfolio-red?style=flat&logo=appveyor&logoColor=white&link=https://slimani-ibrahim.github.io/profile/)](https://slimani-ibrahim.github.io/profile/)
 [![Github: ibrahim-slimani](https://img.shields.io/badge/-ibrahim.slimani-success?style=flat&logo=Github&logoColor=white&link=https://github.com/Slimani-Ibrahim)](https://github.com/Slimani-Ibrahim)
 ![](https://visitor-badge.glitch.me/badge?page_id=slimani-ibrahim)
