@@ -1,4 +1,4 @@
-## Ibrahim SLIMANI  ✨✨👋
+## Brahim SLIMANI  ✨✨👋
 
 Hi, I'm Ibrahim SLIMANI a software engineer from Algeria, I've mostly worked professionally in the web and mobile developement with experience on several technologies, passionate about various stacks (frontend, backend, DevOps, business intelligence..). Mastering programming techniques and having excellent knowledge of modern development technologies.
 
