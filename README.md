@@ -25,12 +25,12 @@ Hi, I'm Brahim SLIMANI a full-stack software engineer and DevOps enthusiast, I'v
 
 ## SCORES & APPRECIATION
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=slimani-ibrahim&branding=false"></img>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brahim-slimani&branding=false"></img>
 <br/>
 
 ## TECHNICAL SKILLS 
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=slimani-ibrahim&branding=false&show-other-skills=true&bg=1e1e1e"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=brahim-slimani&branding=false&show-other-skills=true&bg=1e1e1e"></img>
 
 <br/>
 <div> 
