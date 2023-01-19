@@ -6,7 +6,7 @@ Hi, I'm Brahim SLIMANI a full-stack software engineer and DevOps enthusiast, I'v
 - 🌱 I am progressing in mastering DevOps technologies and the unavoidable tools of this wonder paradigm.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about software engineering and web development topics, I'll be pleased to help you. 
-- 📫 How to reach me: 📧Mailto: [slimani.ibr@gmail.com](slimani.ibr@gmail.com) | [b.slimani@esi-sba.dz](b.slimani@esi-sba.dz) or through the social links below 👇
+- 📫 How to reach me: 📧Mailto: [slimani.ibr@gmail.com](slimani.ibr@gmail.com) | [brahim.slimani@poliscrypts.be](brahim.slimani@poliscrypts.be) or through the social links below 👇
 - 😄 Pronouns: Brahim, Ibra
 - ⚡ Fun fact: I don't care..
 
