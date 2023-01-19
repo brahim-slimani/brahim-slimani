@@ -30,7 +30,7 @@ Hi, I'm Brahim SLIMANI a full-stack software engineer and DevOps enthusiast, I'v
 
 ## TECHNICAL SKILLS 
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=brahim-slimani&branding=false&show-other-skills=true&bg=1e1e1e"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=brahim-slimani&branding=false&show-other-skills=true&bg=282a36"></img>
 
 <br/>
 <div> 
