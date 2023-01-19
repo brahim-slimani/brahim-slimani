@@ -38,6 +38,10 @@ Hi, I'm Brahim SLIMANI a full-stack software engineer and DevOps enthusiast, I'v
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=slimani-ibrahim&show_icons=true&theme=dracula&count_private=true" width="420"> -->
 </div>
 
+<br/>
+<div>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=brahim-slimani&layout=compact&theme=dracula"></img>
+</div>
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
