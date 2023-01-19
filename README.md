@@ -40,7 +40,7 @@ Hi, I'm Brahim SLIMANI a full-stack software engineer and DevOps enthusiast, I'v
 
 <br/>
 <div>
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=brahim-slimani&layout=compact&theme=dracula"></img>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=brahim-slimani&layout=compact&branding=false&style=color:grey"></img>
 </div>
 <!--START_SECTION:waka-->
 
