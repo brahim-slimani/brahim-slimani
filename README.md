@@ -1,4 +1,4 @@
-## Brahim SLIMANI  ✨✨👋
+## Brahim SLIMANI  ✨👋
 
 Hi, I'm Brahim SLIMANI a full-stack software engineer and DevOps enthusiast, I've mostly worked professionally in the web and mobile developement with experience on several technologies, passionate about various stacks (frontend, backend, DevOps, business intelligence..). Mastering programming techniques and having excellent knowledge of modern development technologies.
 
@@ -13,7 +13,7 @@ Hi, I'm Brahim SLIMANI a full-stack software engineer and DevOps enthusiast, I'v
 <!-- CONTACT LINKS -->
 [![Linkedin: brahim-slimani](https://img.shields.io/badge/-brahim.slimani-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brahim-slimani/)](https://www.linkedin.com/in/brahim-slimani/)
 [![Website](https://img.shields.io/badge/-portfolio-red?style=flat&logo=appveyor&logoColor=white&link=https://brahim-slimani.github.io/profile/)](https://brahim-slimani.github.io/profile/)
-[![Github: brahim-slimani](https://img.shields.io/badge/-ibrahim.slimani-success?style=flat&logo=Github&logoColor=white&link=https://github.com/Slimani-Ibrahim)](https://github.com/brahim-slimani)
+[![Github: brahim-slimani](https://img.shields.io/badge/-brahim.slimani-success?style=flat&logo=Github&logoColor=white&link=https://github.com/brahim-slimani)](https://github.com/brahim-slimani)
 ![](https://visitor-badge.glitch.me/badge?page_id=brahim-slimani)
 
 <br/>
