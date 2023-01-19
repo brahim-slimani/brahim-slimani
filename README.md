@@ -37,8 +37,9 @@ Hi, I'm Brahim SLIMANI a full-stack software engineer and DevOps enthusiast, I'v
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahim-slimani&layout=compact&theme=dracula">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=slimani-ibrahim&show_icons=true&theme=dracula&count_private=true" width="420"> -->
 </div>
-
 <br/>
+
+## EDUCATION & CERTIFICATES
 <div>
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=brahim-slimani&layout=compact&branding=false&style=color:grey"></img>
 </div>
