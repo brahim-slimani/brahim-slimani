@@ -1,9 +1,9 @@
 ## Brahim SLIMANI  ✨✨👋
 
-Hi, I'm Ibrahim SLIMANI a software engineer from Algeria, I've mostly worked professionally in the web and mobile developement with experience on several technologies, passionate about various stacks (frontend, backend, DevOps, business intelligence..). Mastering programming techniques and having excellent knowledge of modern development technologies.
+Hi, I'm Brahim SLIMANI a full-stack software engineer and DevOps enthusiast, I've mostly worked professionally in the web and mobile developement with experience on several technologies, passionate about various stacks (frontend, backend, DevOps, business intelligence..). Mastering programming techniques and having excellent knowledge of modern development technologies.
 
-- 🔭 I’m currently digital developement enginner at Ooredoo Algeria, working on web and mobile developement.
-- 🌱 I’m currently learning continuous integration & continuous delivery in DevOps paradigm based on CI/CD tools such as Jenkins, CircleCI.. 
+- I'm currently full-stack engineer to profit of PoliScrypts IT Consulting in Brussels, Belgium.
+- 🌱 I am progressing in mastering DevOps technologies and the unavoidable tools of this wonder paradigm.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about software engineering and web development topics, I'll be pleased to help you. 
 - 📫 How to reach me: 📧Mailto: [slimani.ibr@gmail.com](slimani.ibr@gmail.com) | [b.slimani@esi-sba.dz](b.slimani@esi-sba.dz) or through the social links below 👇
@@ -11,10 +11,10 @@ Hi, I'm Ibrahim SLIMANI a software engineer from Algeria, I've mostly worked pro
 - ⚡ Fun fact: I don't care..
 
 <!-- CONTACT LINKS -->
-[![Linkedin: brahim-slimani](https://img.shields.io/badge/-ibrahim.slimani-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brahim-slimani/)](https://www.linkedin.com/in/brahim-slimani/)
-[![Website](https://img.shields.io/badge/-portfolio-red?style=flat&logo=appveyor&logoColor=white&link=https://slimani-ibrahim.github.io/profile/)](https://slimani-ibrahim.github.io/profile/)
-[![Github: brahim-slimani](https://img.shields.io/badge/-ibrahim.slimani-success?style=flat&logo=Github&logoColor=white&link=https://github.com/Slimani-Ibrahim)](https://github.com/Slimani-Ibrahim)
-![](https://visitor-badge.glitch.me/badge?page_id=slimani-ibrahim)
+[![Linkedin: brahim-slimani](https://img.shields.io/badge/-brahim.slimani-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brahim-slimani/)](https://www.linkedin.com/in/brahim-slimani/)
+[![Website](https://img.shields.io/badge/-portfolio-red?style=flat&logo=appveyor&logoColor=white&link=https://brahim-slimani.github.io/profile/)](https://brahim-slimani.github.io/profile/)
+[![Github: brahim-slimani](https://img.shields.io/badge/-ibrahim.slimani-success?style=flat&logo=Github&logoColor=white&link=https://github.com/Slimani-Ibrahim)](https://github.com/brahim-slimani)
+![](https://visitor-badge.glitch.me/badge?page_id=brahim-slimani)
 
 <br/>
 
