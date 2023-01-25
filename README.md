@@ -34,7 +34,7 @@ Hi, I'm Brahim SLIMANI a full-stack software engineer and DevOps enthusiast, I'v
 
 <br/>
 <div> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahim-slimani&layout=compact&theme=dracula">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brahim-slimani&layout=compact&theme=react">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=slimani-ibrahim&show_icons=true&theme=dracula&count_private=true" width="420"> -->
 </div>
 <br/>
