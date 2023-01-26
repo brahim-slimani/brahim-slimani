@@ -20,7 +20,7 @@ Hi, I'm Brahim SLIMANI a full-stack software engineer and DevOps enthusiast, I'v
 
 ## WORK EXPERIENCE
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=brahim-slimani&branding=false&style=color:red"></img>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=brahim-slimani&branding=false&style=color:gray"></img>
 <br/>
 
 ## SCORES & APPRECIATION
