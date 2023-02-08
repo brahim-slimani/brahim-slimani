@@ -1,6 +1,6 @@
-## Brahim SLIMANI  ✨👋
+<h1 align="center">Hi there! I'm Brahim SLIMANI 👋</h1>
 
-Hi, I'm Brahim SLIMANI a full-stack software engineer and DevOps enthusiast, I've mostly worked professionally in the web and mobile developement with experience on several technologies, passionate about various stacks (frontend, backend, DevOps, business intelligence..). Mastering programming techniques and having excellent knowledge of modern development technologies.
+Hi, I'm a full-stack software engineer and DevOps enthusiast, I've mostly worked professionally in the web and mobile developement with experience on several technologies, passionate about various stacks (frontend, backend, DevOps, business intelligence..). Mastering programming techniques and having excellent knowledge of modern development technologies.
 
 - I'm currently working as full-stack engineer for PoliScrypts IT Consulting in Brussels, Belgium.
 - 🌱 I am progressing in mastering DevOps technologies and the unavoidable tools of this wonder paradigm.
