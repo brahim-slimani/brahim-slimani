@@ -23,7 +23,7 @@ Hi, I'm a DevOps Engineer, I've mostly worked professionally in several IT proje
 
 ## SCORES & APPRECIATION
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brahim-slimani&branding=false"></img>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brahim-slimani&branding=false&version=2"></img>
 <br/>
 
 <!--TECHNICAL SKILLS
