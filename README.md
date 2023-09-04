@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I'm Brahim SLIMANI 👋</h1>
 
-Hi, I'm a Passionate DevOps Engineer, I've mostly worked professionally in several IT projects. Experienced with full SDLC stages across variety of technologies. Possessing strong knowledge of building, deploying and securing cloud-based applications and container-oerchestration chiefly with Kubernetes.
+I'm a Passionate DevOps Engineer, I've mostly worked professionally in several IT projects. Experienced with full SDLC stages across variety of technologies. Possessing strong knowledge of building, deploying and securing cloud-based applications and container-oerchestration chiefly with Kubernetes.
 
 - I'm currently working as FSD & DevOps consultant for PoliScrypts IT Consulting.
 - I am progressing in mastering cutting-edge technologies and improve my skill-box.
