@@ -3,10 +3,10 @@
 I'm a Passionate DevOps Engineer, I've mostly worked professionally in several IT projects. Experienced with full SDLC stages across variety of technologies. Possessing strong knowledge of building, deploying and securing cloud-based applications and container-orchestration chiefly with Kubernetes.
 
 - I'm currently working as FSD & DevOps consultant for PoliScrypts IT Consulting.
-- I am progressing in mastering cutting-edge technologies with the aim of varying and improving my skillset.
-- I’m looking to collaborate on open-source projects. <!--- Ask me about software engineering and web development topics, I'll be pleased to help you. -->
-- Reach me on 📧 Mailto: [slimani.ibr@gmail.com](slimani.ibr@gmail.com) | [brahim.slimani@poliscrypts.be](brahim.slimani@poliscrypts.be)
-- 😄 Pronouns: Brahim.
+- I am progressing in mastering cutting-edge technologies with the aim of varying and improving my technical compass.
+- Available to collaborate on open-source projects. <!--- Ask me about software engineering and web development topics, I'll be pleased to help you. -->
+- Reach me out to discuss further interesting topics (Coding, Cloud & Edge computing, Web Development...) 📧 Mailto: [slimani.ibr@gmail.com](slimani.ibr@gmail.com) | [brahim.slimani@poliscrypts.be](brahim.slimani@poliscrypts.be)
+- Open for freelance projects across b2b fixed-term contract, even for long-term commitment 🚀
 
 <!-- CONTACT LINKS -->
 [![Linkedin: brahim-slimani](https://img.shields.io/badge/-brahim.slimani-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brahim-slimani/)](https://www.linkedin.com/in/brahim-slimani/)
