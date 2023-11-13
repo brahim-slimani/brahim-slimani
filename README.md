@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Brahim SLIMANI 👋</h1>
+<h2 align="center$">Hi there! I'm Brahim SLIMANI 👋</h2>
 
 I'm a Passionate DevOps Engineer, I've mostly worked professionally in several IT projects. Experienced with full SDLC stages across variety of technologies. Possessing strong knowledge of building, deploying and securing cloud-based applications and container-orchestration chiefly with Kubernetes.
 
