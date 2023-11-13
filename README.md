@@ -12,6 +12,14 @@ I'm a Passionate DevOps Engineer, I've mostly worked professionally in several I
 [![Linkedin: brahim-slimani](https://img.shields.io/badge/-brahim.slimani-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brahim-slimani/)](https://www.linkedin.com/in/brahim-slimani/)
 [![Website](https://img.shields.io/badge/-portfolio-red?style=flat&logo=appveyor&logoColor=white&link=https://brahim-slimani.github.io/profile/)](https://brahim-slimani.github.io/portfolio/)
 [![Github: brahim-slimani](https://img.shields.io/badge/-brahim.slimani-success?style=flat&logo=Github&logoColor=white&link=https://github.com/brahim-slimani)](https://github.com/brahim-slimani)
+[![SO Profile: stack-overflow](https://img.shields.io/badge/-stack_overflow-black?logo=stackoverflow&link=https://stackoverflow.com/users/9512390/brahim-slimani)](https://stackoverflow.com/users/9512390/brahim-slimani)
+[![SU Profile: super-user](https://img.shields.io/badge/-super_user-black?logo=superuser&link=https://superuser.com/users/1241640/brahim-slimani)](https://superuser.com/users/1241640/brahim-slimani)
+[![SV Profile: server-vault](https://img.shields.io/badge/-server_vault-black?logo=serverfault&link=https://serverfault.com/users/1016911/brahim-slimani)](https://serverfault.com/users/1016911/brahim-slimani)
+[![ME Profile: meta-ex](https://img.shields.io/badge/-meta_exchange-black?logo=stackexchange&link=https://meta.stackexchange.com/users/527179/brahim-slimani)](https://meta.stackexchange.com/users/527179/brahim-slimani)
+
+[![CR Profile: coder-rank](https://img.shields.io/badge/-coder_rank-FFA500?logo=codersrank&link=https://profile.codersrank.io/user/brahim-slimani)](https://profile.codersrank.io/user/brahim-slimani)
+
+
 ![](https://visitor-badge.glitch.me/badge?page_id=slimani-ibrahim)
 
 <br/>
