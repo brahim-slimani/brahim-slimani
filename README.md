@@ -17,7 +17,7 @@ I'm a Passionate DevOps Engineer, I've mostly worked professionally in several I
 [![SV Profile: server-vault](https://img.shields.io/badge/-server_vault-black?logo=serverfault&link=https://serverfault.com/users/1016911/brahim-slimani)](https://serverfault.com/users/1016911/brahim-slimani)
 [![ME Profile: meta-ex](https://img.shields.io/badge/-meta_exchange-black?logo=stackexchange&link=https://meta.stackexchange.com/users/527179/brahim-slimani)](https://meta.stackexchange.com/users/527179/brahim-slimani)
 [![CR Profile: coder-rank](https://img.shields.io/badge/-coder_rank-black?logo=codersrank&link=https://profile.codersrank.io/user/brahim-slimani)](https://profile.codersrank.io/user/brahim-slimani)
-
+[![CY Profile: credly](https://img.shields.io/badge/-credly-black?logo=credly&link=https://www.credly.com/users/brahim-slimani/badges)](https://www.credly.com/users/brahim-slimani/badges)
 
 <!--![](https://visitor-badge.glitch.me/badge?page_id=slimani-ibrahim)-->
 
