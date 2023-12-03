@@ -18,6 +18,7 @@ I'm a Passionate DevOps Engineer, I've mostly worked professionally in several I
 [![CR Profile: coder-rank](https://img.shields.io/badge/-coder_rank-black?logo=codersrank&link=https://profile.codersrank.io/user/brahim-slimani)](https://profile.codersrank.io/user/brahim-slimani)
 [![CY Profile: credly](https://img.shields.io/badge/-credly-black?logo=credly&link=https://www.credly.com/users/brahim-slimani/badges)](https://www.credly.com/users/brahim-slimani/badges)
 
+<!--[![Github: brahim-slimani](https://img.shields.io/badge/-brahim.slimani-black?style=flat&logo=Github&logoColor=white&link=https://github.com/brahim-slimani)](https://github.com/brahim-slimani)-->
 <!--![](https://visitor-badge.glitch.me/badge?page_id=slimani-ibrahim)-->
 
 <br/>
