@@ -11,7 +11,6 @@ I'm a Passionate DevOps Engineer, I've mostly worked professionally in several I
 <!-- CONTACT LINKS -->
 [![Linkedin: brahim-slimani](https://img.shields.io/badge/-brahim.slimani-black?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brahim-slimani/)](https://www.linkedin.com/in/brahim-slimani/)
 [![Website](https://img.shields.io/badge/-portfolio-black?style=flat&logo=react&logoColor=white&link=https://brahim-slimani.github.io/profile/)](https://brahim-slimani.github.io/portfolio/)
-[![Github: brahim-slimani](https://img.shields.io/badge/-brahim.slimani-black?style=flat&logo=Github&logoColor=white&link=https://github.com/brahim-slimani)](https://github.com/brahim-slimani)
 [![SO Profile: stack-overflow](https://img.shields.io/badge/-stack_overflow-black?logo=stackoverflow&link=https://stackoverflow.com/users/9512390/brahim-slimani)](https://stackoverflow.com/users/9512390/brahim-slimani)
 [![SU Profile: super-user](https://img.shields.io/badge/-super_user-black?logo=superuser&link=https://superuser.com/users/1241640/brahim-slimani)](https://superuser.com/users/1241640/brahim-slimani)
 [![SV Profile: server-vault](https://img.shields.io/badge/-server_vault-black?logo=serverfault&link=https://serverfault.com/users/1016911/brahim-slimani)](https://serverfault.com/users/1016911/brahim-slimani)
