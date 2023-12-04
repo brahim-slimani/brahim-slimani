@@ -44,7 +44,7 @@ I'm a Passionate DevOps Engineer, I've mostly worked professionally in several I
 
   <!--
 [![Image 1](./assets/cka-certified-kubernetes-administrator.png)](#) [![Image 1](./assets/cka-certified-kubernetes-administrator.png)](#) [![Image 1](./assets/cka-certified-kubernetes-administrator.png)](#) <br/>
-<small>Small Text 1</small>    &nbsp;&nbsp;&nbsp;       <small>Small Text 2</small>     &nbsp;&nbsp;&nbsp;      <small>Small Text 3</small>
+<small>Certified k8s CKAD</small>    &nbsp;&nbsp;&nbsp; 
 -->
 
 
@@ -57,16 +57,16 @@ I'm a Passionate DevOps Engineer, I've mostly worked professionally in several I
       </a>
     </td>
     <td align="center" style="border: 1px solid transparent;">
-      <a href="https://www.credly.com/badges/8d51ab93-45ce-44f3-a0ca-86749f9902b8/embedded">
-        <img src="./assets/ckss-certified-kubernetes-security-specialist.png" alt="cks" height="150" /><br />
-        <sup>Certified Kubernetes Security Specialist</sup>
-      </a>
-    </td>
-    <td align="center" style="border: 1px solid transparent;">
      <a href="https://www.credly.com/badges/39b474b0-c6ee-492d-b945-560a58f681d2/embedded">
         <img src="./assets/cka-certified-kubernetes-administrator.png" alt="cka" /><br />
         <sup>Certified Kubernetes Administrator</sup>
      </a>
+    </td>
+     <td align="center" style="border: 1px solid transparent;">
+      <a href="https://www.credly.com/badges/8d51ab93-45ce-44f3-a0ca-86749f9902b8/embedded" >
+        <img src="./assets/ckss-certified-kubernetes-security-specialist.png" alt="cks" height="150" /><br />
+        <sup>Certified Kubernetes Security Specialist</sup>
+      </a>
     </td>
     <td align="center" style="border: 1px solid transparent;">
      <a href="https://www.credly.com/badges/f12ca793-8866-491b-8157-236540e6b5ab/">
