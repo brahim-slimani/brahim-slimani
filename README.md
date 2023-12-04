@@ -3,7 +3,7 @@
 I'm a Passionate DevOps Engineer, I've mostly worked professionally in several IT projects. Experienced with full SDLC stages across variety of technologies. Possessing strong knowledge of building, deploying and securing cloud-based applications and container-orchestration chiefly with Kubernetes.
 
 - I'm currently working as FSD & DevOps consultant for PoliScrypts IT Consulting.
-- I am progressing in mastering cutting-edge technologies with the aim of varying and improving my technical compass.
+- I am progressing in mastering cutting-edge technologies with aim of varying and improving my technical compass.
 - Available to collaborate on open-source projects. <!--- Ask me about software engineering and web development topics, I'll be pleased to help you. -->
 - Reach me out to discuss further interesting topics (Coding, Cloud & Edge computing, Web Development...) 📧 Mailto: [slimani.ibr@gmail.com](slimani.ibr@gmail.com) | [brahim.slimani@poliscrypts.be](brahim.slimani@poliscrypts.be)
 - Open for freelance projects across b2b fixed-term contract, even for long-term commitment 🚀
@@ -23,14 +23,68 @@ I'm a Passionate DevOps Engineer, I've mostly worked professionally in several I
 
 <br/>
 
-<!--## WORK EXPERIENCE
+## IMPROVEMENTS
+<!--
+<div display="flex">  
+<a href="https://www.credly.com/badges/8336d3ad-0e8b-439a-b6ff-4fe98084b1a0/embedded" >
+<img src="./assets/ckad-certified-kubernetes-application-developer.png" >
+<sup>Certified K8s App Developer</sup>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/8d51ab93-45ce-44f3-a0ca-86749f9902b8/embedded" >
+<img src="./assets/ckss-certified-kubernetes-security-specialist.png" height="140">
+  <sup>Certified K8s Security Specialist</sup>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/39b474b0-c6ee-492d-b945-560a58f681d2/embedded" >
+<img src="./assets/cka-certified-kubernetes-administrator.png" >
+  <sup>Certified K8s Administartor</sup>
+</a>
+</div>-->
 
+  <!--
+[![Image 1](./assets/cka-certified-kubernetes-administrator.png)](#) [![Image 1](./assets/cka-certified-kubernetes-administrator.png)](#) [![Image 1](./assets/cka-certified-kubernetes-administrator.png)](#) <br/>
+<small>Small Text 1</small>    &nbsp;&nbsp;&nbsp;       <small>Small Text 2</small>     &nbsp;&nbsp;&nbsp;      <small>Small Text 3</small>
+-->
+
+
+<table style="border:0px solid white; width:100%;">
+  <tr style="border: 0px;">
+    <td align="center">
+      <a href="https://www.credly.com/badges/8336d3ad-0e8b-439a-b6ff-4fe98084b1a0/embedded">
+        <img src="./assets/ckad-certified-kubernetes-application-developer.png" alt="ckad" /><br />
+        <sup>Certified Kubernetes App Developer</sup>
+      </a>
+    </td>
+    <td align="center" style="border: 1px solid transparent;">
+      <a href="https://www.credly.com/badges/8d51ab93-45ce-44f3-a0ca-86749f9902b8/embedded">
+        <img src="./assets/ckss-certified-kubernetes-security-specialist.png" alt="cks" height="150" /><br />
+        <sup>Certified Kubernetes Security Specialist</sup>
+      </a>
+    </td>
+    <td align="center" style="border: 1px solid transparent;">
+     <a href="https://www.credly.com/badges/39b474b0-c6ee-492d-b945-560a58f681d2/embedded">
+        <img src="./assets/cka-certified-kubernetes-administrator.png" alt="cka" /><br />
+        <sup>Certified Kubernetes Administrator</sup>
+     </a>
+    </td>
+    <td align="center" style="border: 1px solid transparent;">
+     <a href="https://www.credly.com/badges/f12ca793-8866-491b-8157-236540e6b5ab/">
+       <br />
+        <img src="./assets/certified-gitops-associate.png" alt="gitops" height="126" /><br />
+        <sup>LFS169: Introduction to GitOps</sup>
+     </a>
+    </td>
+  </tr>
+</table>
+
+<!--## WORK EXPERIENCE
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=brahim-slimani&branding=false&style=color:gray"></img>
 <br/>-->
 
 ## SCORES & APPRECIATION
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brahim-slimani&branding=false&version=3"></img>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=brahim-slimani&branding=false&version=3">
 <br/>
 
 <!--TECHNICAL SKILLS
