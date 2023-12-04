@@ -71,7 +71,7 @@ I'm a Passionate DevOps Engineer, I've mostly worked professionally in several I
     <td align="center" style="border: 1px solid transparent;">
      <a href="https://www.credly.com/badges/f12ca793-8866-491b-8157-236540e6b5ab/">
        <br />
-        <img src="./assets/certified-gitops-associate.png" alt="gitops" height="127" /><br />
+        <img src="./assets/certified-gitops-associate.png" alt="gitops" height="128" /><br />
         <sup>LFS169: Introduction to GitOps</sup>
      </a>
     </td>
