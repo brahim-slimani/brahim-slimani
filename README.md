@@ -1,8 +1,8 @@
 <h2 align="center$">Hi there! I'm Brahim Slimani 👋</h2>
 
-I'm a Passionate DevOps Engineer, I've mostly worked professionally in several IT projects. Experienced with full SDLC stages across variety of technologies. Possessing strong knowledge of building, deploying and securing cloud-based applications and container-orchestration chiefly with Kubernetes.
+I'm a Passionate Full-Stack Dev Engineer, I've mostly worked professionally in several IT projects. Experienced with full SDLC stages across variety of technologies. Possessing strong knowledge of building, deploying and securing cloud-based applications and container-orchestration chiefly with Kubernetes.
 
-- I'm currently working as FSD & DevOps consultant for PoliScrypts IT Consulting.
+- I'm currently working as IT Dev consultant for PoliScrypts IT Consulting.
 - I am progressing in mastering cutting-edge technologies with aim of varying and improving my technical compass.
 - Available to collaborate on open-source projects. <!--- Ask me about software engineering and web development topics, I'll be pleased to help you. -->
 - Reach me out to discuss further interesting topics brahim.slimani@poliscrypts.be (Coding, Cloud & Edge computing, Web Development...)
